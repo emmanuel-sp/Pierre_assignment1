@@ -1,0 +1,56 @@
+Pierre_assignment1:
+total 8
+drwxr-xr-x. 3 myid  25 Sep 21 22:08 bin
+-rw-r--r--. 1 myid 978 Sep 23 00:17 README.md
+-rw-r--r--. 1 myid   0 Oct  6 14:37 rec21312
+-rwxr--r--. 1 myid 273 Oct  6 14:33 script.sh
+drwxr-xr-x. 3 myid  25 Sep 18 12:36 src
+
+Pierre_assignment1/bin:
+total 0
+drwxr-xr-x. 5 myid 97 Sep 21 22:32 esp
+
+Pierre_assignment1/bin/esp:
+total 8
+drwxr-xr-x. 2 myid   44 Sep 21 22:31 control
+-rw-r--r--. 1 myid 4276 Oct  6 14:33 LinkedListDriver.class
+drwxr-xr-x. 2 myid   36 Sep 21 22:08 tests
+drwxr-xr-x. 2 myid   62 Sep 21 22:09 types
+
+Pierre_assignment1/bin/esp/control:
+total 4
+-rw-r--r--. 1 myid 3150 Oct  6 14:33 SortedLinkedList.class
+
+Pierre_assignment1/bin/esp/tests:
+total 4
+-rw-r--r--. 1 myid 446 Sep 21 22:08 NodeType.class
+
+Pierre_assignment1/bin/esp/types:
+total 8
+-rw-r--r--. 1 myid 456 Oct  6 14:33 ItemType.class
+-rw-r--r--. 1 myid 446 Oct  6 14:33 NodeType.class
+
+Pierre_assignment1/src:
+total 0
+drwxr-xr-x. 5 myid 117 Oct  6 14:33 esp
+
+Pierre_assignment1/src/esp:
+total 12
+drwxr-xr-x. 2 myid   43 Sep 24 17:18 control
+-rw-r--r--. 1 myid   17 Sep 22 23:45 input.txt
+-rw-r--r--. 1 myid 5195 Oct  6 14:33 LinkedListDriver.java
+drwxr-xr-x. 2 myid   10 Sep 18 12:30 tests
+drwxr-xr-x. 2 myid   60 Sep 21 22:09 types
+
+Pierre_assignment1/src/esp/control:
+total 8
+-rw-r--r--. 1 myid 5494 Sep 24 17:18 SortedLinkedList.java
+
+Pierre_assignment1/src/esp/tests:
+total 0
+
+Pierre_assignment1/src/esp/types:
+total 8
+-rw-r--r--. 1 myid 425 Sep 18 18:57 ItemType.java
+-rw-r--r--. 1 myid 321 Sep 21 22:09 NodeType.java
+/home/myid/esp48321/CSCI2720/Pierre_assignment1:/home/myid/csci-2720b
